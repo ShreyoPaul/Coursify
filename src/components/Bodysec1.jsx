@@ -46,6 +46,7 @@ const Bodysec1 = () => {
                     border: '1px solid black',
                     borderTop: 0,
                     borderBottom: 0,
+                    borderLeft: 0,
                     borderRight: 0,
                     width: "250px"
                 }}>
